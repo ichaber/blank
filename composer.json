@@ -1,0 +1,5 @@
+{
+    "name": "ichaber/blank",
+    "description": "Base composer package",
+    "require": {}
+}
